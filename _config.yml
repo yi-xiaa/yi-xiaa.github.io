@@ -1,13 +1,13 @@
 # main text of home
 title: Yi Xia
-bio: A Person who travels the world eating noodles
+bio: “Statistics is the grammar of science.” - Karl Pearson
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/dp.jpg
 
 # your site color theme, true for dark theme, 
