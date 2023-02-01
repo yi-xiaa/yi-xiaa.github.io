@@ -45,7 +45,7 @@ authors:
   Yi Xia:
     name: John Doe
     bio: A Man who travels the world eating noodles
-    external-image: false
+    external-image: true
     picture: assets/images/dp.jpg
     twitter: johndoe
   jamesfoster:
